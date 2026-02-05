@@ -120,7 +120,7 @@ ul {
   .showcase {
     color: #000 ;
     width: 100%;
-    background: url(.vscode/img/img-aire4.jpg) no-repeat center/cover;
+    background: url(img/img-aire4.jpg) no-repeat center/cover;
     height: 500px;
     padding: 50px;
     margin-bottom: 20px;
@@ -192,7 +192,7 @@ ul {
 .cards-banner-one{
   width: 100%;
   height: 350px;
-  background: url(.vscode/img/tech-red.jpg) no-repeat center center/cover;
+  background: url(img/tech-red.jpg) no-repeat center center/cover;
   margin-top: 60px;
 }
 .cards-banner-one .content{
@@ -210,7 +210,7 @@ ul {
 .cards-banner-two{
   width: 100%;
   height: 350px;
-  background:url(.vscode/img/image-five.jpg) no-repeat center center/cover;
+  background:url(img/image-five.jpg) no-repeat center center/cover;
   margin-top: 60px;
 }
 .cards-banner-two .content{
@@ -472,5 +472,6 @@ width: 100vw;
 .venta-equipos .suscripcion-form button:hover {
   opacity: 0.5;
 }
+
 
 
